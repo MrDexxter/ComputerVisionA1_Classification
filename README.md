@@ -24,3 +24,6 @@ pip install opencv-python
 
 ### File Information
 The project contain two .ipynb files. One for Object dataset and other for flower dataset. You can run the jupyter notebooks using google colab or any other python IDLE.
+
+### Results
+The SVC classifier did well on the object dataset with an accuracy of 75 percent. Random forest was able to achieve an accuracy of 62 percent. However, these methods failed drastically on the flower dataset. The accuracy was not more than 50 percent with either classifier. This accounts for variance in each category of flowers and a large number of data samples. 
