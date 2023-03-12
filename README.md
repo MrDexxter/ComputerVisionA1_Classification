@@ -7,7 +7,6 @@ authorLink: 'https://github.com/MrDexxter/'
 authorName: 'Ahmad, inc.'
 -->
 
-https://lexica.art/prompt/15680caa-4404-404f-8417-a406239b5b7e
 ![alt text]([http://url/to/img.png](https://lexica.art/prompt/15680caa-4404-404f-8417-a406239b5b7e))
 
 # SIFT Feature Descriptors
