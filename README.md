@@ -9,7 +9,7 @@ authorName: 'Ahmad, inc.'
 
 ![cute fluffy monster with black background](https://user-images.githubusercontent.com/97404986/224576815-de4444ab-0d57-4181-a3a2-7e96d0e403c1.jpg)
 
-# SIFT Feature Descriptors
+# Classification with Feature Descriptors (SIFT & ORB)
 
 The files uses OpenCV pipelines to detect and describe the features of an image. It then uses classifiers like SVM and Random Forest to classify them.
 
